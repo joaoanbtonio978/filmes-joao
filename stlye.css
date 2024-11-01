@@ -76,7 +76,7 @@ ul {
   height: 30px;
 }
 .example-2 .icon-content a:hover {
-  color: white;
+  color: blue;
 }
 .example-2 .icon-content a .filled {
   position: absolute;
